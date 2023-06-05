@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VIN_D Pin=D1-2
+Added Pin To Net: NetName=VIN Pin=D1-2
+Added Net: Name=VIN
+Add Class Member: Failed to add class member : Component * TITLE_BLOCK
