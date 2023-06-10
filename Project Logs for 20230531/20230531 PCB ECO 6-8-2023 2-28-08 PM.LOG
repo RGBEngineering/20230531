@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetC5_2 Pin=M3-1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=VOUT
+Add Class Member: Failed to add class member : Component * TITLE_BLOCK

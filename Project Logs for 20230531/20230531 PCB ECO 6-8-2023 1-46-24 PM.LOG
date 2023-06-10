@@ -1,0 +1,11 @@
+Added Component: Designator=M1(MOUNTING_HOLE_M2)
+Added Component: Designator=M2(MOUNTING_HOLE_M2)
+Added Pin To Net: NetName=VIN Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R13-2
+Added Pin To Net: NetName=NetC7_1 Pin=T1-1
+Added Net: Name=NetC7_1
+Add Class Member: Failed to add class member : Component * TITLE_BLOCK
+Added Member To Class: ClassName=20230531_Sheet1 Member=Component M1 2MM
+Added Member To Class: ClassName=20230531_Sheet1 Member=Component M2 2MM
