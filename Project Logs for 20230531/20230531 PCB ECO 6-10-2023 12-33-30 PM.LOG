@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=R13-2
+Added Component: Designator=M3(MOUNTING_HOLE_M2)
+Added Component: Designator=M4(MOUNTING_HOLE_M2)
+Added Component: Designator=S1(SIDAC_TH1)
+Added Pin To Net: NetName=NetC5_2 Pin=M3-1
+Added Pin To Net: NetName=VCC Pin=M4-1
+Added Pin To Net: NetName=NetC7_1 Pin=S1-2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=VOUT
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=S1-1
+Added Net: Name=NetR13_2
+Add Class Member: Failed to add class member : Component * TITLE_BLOCK
+Added Member To Class: ClassName=20230531_Sheet1 Member=Component M3 2MM
+Added Member To Class: ClassName=20230531_Sheet1 Member=Component M4 2MM
+Added Member To Class: ClassName=20230531_Sheet1 Member=Component S1 K1200G
